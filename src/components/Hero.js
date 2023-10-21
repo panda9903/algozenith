@@ -7,8 +7,8 @@ const Hero = () => {
   return (
     <div className="rcgn__Hero ">
       <HeroLorem />
-      <HeroInfo />
       <Button />
+      <HeroInfo />
     </div>
   );
 };

@@ -3,7 +3,7 @@ import ListItem from "./ListItem";
 
 const CourseList = () => {
   return (
-    <div className="rcgn__CourseList bg-[#04425d] flex flex-col justify-center rounded-md">
+    <div className="rcgn__CourseList bg-[#04425d] flex flex-col  p-4 justify-center rounded-md">
       <ListItem data="100 Hrs+ Live Contents" />
       <ListItem data="50 Hrs+ Contest" />
       <ListItem data="500+ Problems" />

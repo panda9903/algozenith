@@ -1,15 +1,18 @@
 import React from "react";
+import MediumText from "./MediumText";
+import SmallText from "./SmallText";
 
 const Invest = () => {
-  return (
-    <div className="rcgn__Invest">
-      <p className="w-32 text-3xl md:w-[295px] font-bold">
-        Invest in skills, <br />
-        <span className=" text-[#235b92] md:w-auto">earn 10x </span>
-        of what you paid
-      </p>
-    </div>
-  );
+  if (window.innerWidth > 768) {
+    return <MediumText />;
+  } else {
+    return <SmallText />;
+  }
 };
+
+window.addEventListener("resize", () => {
+  console.log("resize" + window.innerWidth);
+  Invest();
+});
 
 export default Invest;

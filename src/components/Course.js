@@ -6,11 +6,20 @@ import CourseList from "./CourseList";
 
 const Course = () => {
   return (
-    <div className="rcgn__Course flex justify-center items-center rounded p-4">
-      <div className=" border-solid rounded-md border-[#c2d4da] border-2 w-64 p-0.5">
-        <CourseName />
-        <OldPrice />
-        <NewPrice />
+    <div className="rcgn__Course flex justify-center items-center rounded p-4 ">
+      <div className="border-solid rounded-md border-[#c2d4da] border-2 w-96">
+        <div className="flex">
+          <div className="p-4">
+            <CourseName />
+            <OldPrice />
+            <NewPrice />
+          </div>
+          <img
+            src={require("../Screenshot from 2023-10-21 18-46-56.png")}
+            alt="Course logo"
+            className="h-[180px] w-[180px]"
+          />
+        </div>
 
         <CourseList />
       </div>

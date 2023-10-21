@@ -4,10 +4,7 @@ import BeBetter from "./BeBetter";
 
 const Header = () => {
   return (
-    <div
-      className="rcgn__Header
-    flex flex-col md:gap-6"
-    >
+    <div className="rcgn__Header flex flex-col md:gap-6">
       <BeBetter />
       <Hero />
     </div>
