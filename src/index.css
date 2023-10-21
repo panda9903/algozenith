@@ -7,9 +7,18 @@
 * {
   font-family: "Poppins", sans-serif;
   user-select: none;
-  overflow: visible;
+  overflow-x: hidden;
 }
 
 ::-webkit-scrollbar {
   display: none;
+}
+
+img {
+  overflow: hidden;
+  pointer-events: none;
+}
+
+p {
+  overflow: hidden;
 }
