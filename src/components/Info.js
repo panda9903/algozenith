@@ -5,7 +5,7 @@ import LoremInvest from "./LoremInvest";
 
 const Info = () => {
   return (
-    <div className="flex flex-col items-center">
+    <div className="rcgn__Info flex flex-col items-center">
       <Invest />
       <LoremInvest />
       <Results />

@@ -5,11 +5,11 @@ import HeroLorem from "./HeroLorem";
 
 const Hero = () => {
   return (
-    <>
+    <div className="rcgn__Hero">
       <HeroLorem />
       <HeroInfo />
       <Button />
-    </>
+    </div>
   );
 };
 
