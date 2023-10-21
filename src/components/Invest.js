@@ -1,18 +1,34 @@
 import React from "react";
 import MediumText from "./MediumText";
 import SmallText from "./SmallText";
+import { useState, useEffect } from "react";
 
 const Invest = () => {
-  if (window.innerWidth > 768) {
+  const size = useWindowSize().width;
+  if (size > 768) {
     return <MediumText />;
   } else {
     return <SmallText />;
   }
 };
 
-window.addEventListener("resize", () => {
-  console.log("resize" + window.innerWidth);
-  Invest();
-});
+function useWindowSize() {
+  const [windowSize, setWindowSize] = useState({
+    width: undefined,
+    height: undefined,
+  });
+  useEffect(() => {
+    function handleResize() {
+      setWindowSize({
+        width: window.innerWidth,
+        height: window.innerHeight,
+      });
+    }
+    window.addEventListener("resize", handleResize);
+    handleResize();
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+  return windowSize;
+}
 
 export default Invest;
