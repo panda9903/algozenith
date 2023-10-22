@@ -1,6 +1,6 @@
 # AlgoZenith Frontend Internship Test
 
-Created a webpage given by Algozenith for testing the developing skills.
+Created a webpage given by Algozenith.
 Tech stack - React, TailwindCSS
 
 ## Available Scripts
