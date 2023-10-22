@@ -3,7 +3,13 @@
 Created a webpage given by Algozenith.
 Tech stack - React, TailwindCSS
 
-
+\
+\
+\
+\
+\
+\
+\
 
 ## Available Scripts
 
