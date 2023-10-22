@@ -14,8 +14,8 @@ const LoremInvest = () => {
   }
 
   return (
-    <div className="rcgn__LoremInvest">
-      <p className="md:max-w-[500px] text-xs m-4 text-center md:text-left max-w-[25rem] md:text-base">
+    <div className="rcgn__LoremInvest md:mt-4">
+      <p className="md:max-w-[500px] text-xs text-center md:text-left max-w-[25rem] md:text-base m-6">
         {lorem}
       </p>
     </div>
