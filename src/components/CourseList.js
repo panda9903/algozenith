@@ -4,7 +4,7 @@ import { AiOutlineArrowRight } from "react-icons/ai";
 
 const CourseList = () => {
   return (
-    <div className="rcgn__CourseList bg-[#04425d] flex flex-col  p-4 justify-center rounded-md">
+    <div className="rcgn__CourseList bg-[#1F4482] bg-gradient-to-br from-[#05445E] to-[#022534] flex flex-col  p-4 justify-center rounded-md">
       <ListItem data="100 Hrs+ Live Contents" />
       <ListItem data="50 Hrs+ Contest" />
       <ListItem data="500+ Problems" />
@@ -12,7 +12,7 @@ const CourseList = () => {
       <ListItem data="Enjoy access to content for one year (paid extensions available)" />
       <ListItem data="Flexible payment options, including no-cost EMI, are available" />
 
-      <button className="bg-white text-[#053e56] w-80 rounded-md p-2 flex gap-1 items-center justify-center mx-auto">
+      <button className="shadow bg-white font-semibold text-[#053e56] w-80 rounded-md p-2 flex gap-1 items-center justify-center mx-auto">
         Join Now
         <AiOutlineArrowRight />
       </button>
