@@ -17,7 +17,7 @@ const Course = () => {
           <img
             src={require("../Screenshot from 2023-10-21 18-46-56.png")}
             alt="Course logo"
-            className="h-[180px] w-[180px]"
+            className="h-[150px] w-[160px]"
           />
         </div>
 

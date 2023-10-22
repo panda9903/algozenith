@@ -8,6 +8,7 @@
   font-family: "Poppins", sans-serif;
   user-select: none;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 ::-webkit-scrollbar {
@@ -17,8 +18,16 @@
 img {
   overflow: hidden;
   pointer-events: none;
+  scroll-behavior: none;
 }
 
 p {
   overflow: hidden;
+}
+
+.cropped1 {
+  width: 100px; /* width of container */
+  height: 100px; /* height of container */
+  object-fit: cover;
+  border: 5px solid black;
 }

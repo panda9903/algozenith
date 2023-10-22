@@ -15,7 +15,7 @@ const LoremInvest = () => {
 
   return (
     <div className="rcgn__LoremInvest">
-      <p className="md:w-[500px] text-s m-4 text-center md:text-left">
+      <p className="md:w-[500px] text-s m-4 text-center md:text-left w-[32rem]">
         {lorem}
       </p>
     </div>

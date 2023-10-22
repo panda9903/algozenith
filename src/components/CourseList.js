@@ -1,5 +1,6 @@
 import React from "react";
 import ListItem from "./ListItem";
+import { AiOutlineArrowRight } from "react-icons/ai";
 
 const CourseList = () => {
   return (
@@ -11,8 +12,9 @@ const CourseList = () => {
       <ListItem data="Enjoy access to content for one year (paid extensions available)" />
       <ListItem data="Flexible payment options, including no-cost EMI, are available" />
 
-      <button className="text-[#06445e] bg-white bg-center p-1 w-52 mb-4 mx-auto">
-        Join Now!
+      <button className="bg-white text-[#053e56] w-80 rounded-md p-2 flex gap-1 items-center justify-center mx-auto">
+        Join Now
+        <AiOutlineArrowRight />
       </button>
     </div>
   );

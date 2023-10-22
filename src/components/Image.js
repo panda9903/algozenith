@@ -9,11 +9,11 @@ const Image = () => {
   if (size > 768) {
     classes = "w-[786px] h-[783px]";
   } else {
-    classes = "w-[500px] h-[600px]";
+    classes = "w-[700px] h-[700px] object-right-bottom mt-8";
   }
 
   return (
-    <div className=" rcgn__Image m-[-8rem] md:flex end md:m-0">
+    <div className=" rcgn__Image m-[-8rem] md:flex end md:m-0 overflow-clip">
       <img
         className={classes}
         src={require("../AlgoZenith.png")}
