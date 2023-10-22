@@ -9,7 +9,7 @@ const Image = () => {
   if (size > 768) {
     classes = "w-[786px] h-[783px]";
   } else {
-    classes = "w-[700px] h-[700px] object-right-bottom mt-8";
+    classes = "w-[500px] h-[600px] object-right-bottom mt-8";
   }
 
   return (
