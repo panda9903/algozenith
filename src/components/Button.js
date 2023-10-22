@@ -8,7 +8,7 @@ const Button = () => {
         Join Now
         <AiOutlineArrowRight />
       </button>
-      <button className=" bg-[#1F4482] bg-gradient-to-r from-[#033042] to-[#005C83] text-white w-[30rem] md:w-44 rounded-md p-2">
+      <button className=" bg-[#1F4482] bg-gradient-to-r from-[#012b3b] to-[#005C83] text-white w-[30rem] md:w-44 rounded-md p-2">
         View Curriculum
       </button>
     </div>
