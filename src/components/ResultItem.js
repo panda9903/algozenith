@@ -6,8 +6,8 @@ const ResultItem = (props) => {
     <div className="flex gap-1 md:gap-2">
       <GrStatusPlaceholderSmall className=" text-[2rem] md:text-[3rem] mt-[0.05rem]" />
       <div>
-        <p className="font-semibold text-sm md:text-lg">{props.heading}</p>
-        <p className="text-xs md:text-base">{props.text}</p>
+        <p className="font-semibold text-md md:text-lg">{props.heading}</p>
+        <p className="text-sm md:text-base">{props.text}</p>
       </div>
     </div>
   );
