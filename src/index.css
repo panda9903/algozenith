@@ -24,10 +24,3 @@ img {
 p {
   overflow: hidden;
 }
-
-.cropped1 {
-  width: 100px; /* width of container */
-  height: 100px; /* height of container */
-  object-fit: cover;
-  border: 5px solid black;
-}
