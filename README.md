@@ -3,13 +3,16 @@
 Created a webpage given by Algozenith.
 Tech stack - React, TailwindCSS
 
-\
-\
-\
-\
-\
-\
-\
+For medium sized devices and above
+![image](https://github.com/panda9903/algozenith/assets/97980368/2b529682-e923-4bbe-9d6b-1ce77607239b)
+![image](https://github.com/panda9903/algozenith/assets/97980368/49ae156f-a075-4592-892a-62cb57210dcd)
+
+For small sized devices
+![image](https://github.com/panda9903/algozenith/assets/97980368/f9efafa6-c3a6-4824-a66d-0f8b4a6f6643)
+![image](https://github.com/panda9903/algozenith/assets/97980368/f24acece-f429-4a97-b888-5e8ac4aba224)
+![image](https://github.com/panda9903/algozenith/assets/97980368/7b9697d8-cfc7-4a2d-aa63-815db8c18506)
+![image](https://github.com/panda9903/algozenith/assets/97980368/9ba85ac0-157a-4dcf-919e-17523af1caa9)
+
 
 ## Available Scripts
 
