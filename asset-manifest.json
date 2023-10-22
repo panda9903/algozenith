@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/algozenith/static/css/main.04aed43f.css",
-    "main.js": "/algozenith/static/js/main.714d01d5.js",
+    "main.css": "/algozenith/static/css/main.9e85affa.css",
+    "main.js": "/algozenith/static/js/main.1e2b27a8.js",
     "static/media/AlgoZenith.png": "/algozenith/static/media/AlgoZenith.619d611facfd7c2669fc.png",
     "static/media/Screenshot from 2023-10-21 18-46-56.png": "/algozenith/static/media/Screenshot from 2023-10-21 18-46-56.fcde37f08ba8e30eb0ce.png",
     "index.html": "/algozenith/index.html",
-    "main.04aed43f.css.map": "/algozenith/static/css/main.04aed43f.css.map",
-    "main.714d01d5.js.map": "/algozenith/static/js/main.714d01d5.js.map"
+    "main.9e85affa.css.map": "/algozenith/static/css/main.9e85affa.css.map",
+    "main.1e2b27a8.js.map": "/algozenith/static/js/main.1e2b27a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.04aed43f.css",
-    "static/js/main.714d01d5.js"
+    "static/css/main.9e85affa.css",
+    "static/js/main.1e2b27a8.js"
   ]
 }
