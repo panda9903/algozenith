@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/panda9903.github.io/algozenith/static/css/main.04aed43f.css",
+    "main.js": "/panda9903.github.io/algozenith/static/js/main.f9fd497f.js",
+    "static/media/AlgoZenith.png": "/panda9903.github.io/algozenith/static/media/AlgoZenith.619d611facfd7c2669fc.png",
+    "static/media/Screenshot from 2023-10-21 18-46-56.png": "/panda9903.github.io/algozenith/static/media/Screenshot from 2023-10-21 18-46-56.fcde37f08ba8e30eb0ce.png",
+    "index.html": "/panda9903.github.io/algozenith/index.html",
+    "main.04aed43f.css.map": "/panda9903.github.io/algozenith/static/css/main.04aed43f.css.map",
+    "main.f9fd497f.js.map": "/panda9903.github.io/algozenith/static/js/main.f9fd497f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04aed43f.css",
+    "static/js/main.f9fd497f.js"
+  ]
+}
