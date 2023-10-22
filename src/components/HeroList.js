@@ -3,7 +3,7 @@ import HeroListItem from "./HeroListItem";
 
 const HeroList = () => {
   return (
-    <div className="rcgn__HeroList grid grid-cols-2 gap-8 m-8">
+    <div className="rcgn__HeroList grid grid-cols-2 gap-8 mt-8">
       <HeroListItem />
       <HeroListItem />
       <HeroListItem />
