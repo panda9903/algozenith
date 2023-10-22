@@ -6,12 +6,13 @@ Tech stack - React, TailwindCSS
 For medium sized devices and above
 ![image](https://github.com/panda9903/algozenith/assets/97980368/2b529682-e923-4bbe-9d6b-1ce77607239b)
 ![image](https://github.com/panda9903/algozenith/assets/97980368/49ae156f-a075-4592-892a-62cb57210dcd)
-
+\
 For small sized devices
-![image](https://github.com/panda9903/algozenith/assets/97980368/f9efafa6-c3a6-4824-a66d-0f8b4a6f6643)
-![image](https://github.com/panda9903/algozenith/assets/97980368/f24acece-f429-4a97-b888-5e8ac4aba224)
-![image](https://github.com/panda9903/algozenith/assets/97980368/7b9697d8-cfc7-4a2d-aa63-815db8c18506)
-![image](https://github.com/panda9903/algozenith/assets/97980368/9ba85ac0-157a-4dcf-919e-17523af1caa9)
+![image](https://github.com/panda9903/algozenith/assets/97980368/b62655c8-2ba1-4e23-9c99-b0a4347895ea)
+![image](https://github.com/panda9903/algozenith/assets/97980368/9ea53bae-ed18-4c06-ab90-3893d3b90f98)
+![image](https://github.com/panda9903/algozenith/assets/97980368/f38e4152-91ce-4d54-963a-b5dc6f4faac7)
+![image](https://github.com/panda9903/algozenith/assets/97980368/2b87ca3b-aa2e-44c3-b96e-20cc1ca46c83)
+
 
 
 ## Available Scripts
